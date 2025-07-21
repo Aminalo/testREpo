@@ -8,3 +8,8 @@ This is a simple project created as part of my learning experience in software e
 - ```How to edit and organize code using VS Code```
 
 - ```How to write a README file```
+# About me
+Hi! I'm Aminata Lo, and I'm learning software engineering. This is one of my first projects, and I'm excited to keep growing!
+
+
+
